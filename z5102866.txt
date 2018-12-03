@@ -1,0 +1,32 @@
+Week 2
+
+Group formed. I created Bitbucket accounts for the team.
+We discussed three different topics for the project and chose a temporary topic. 
+I looked for some information about Topic 1 and prepared for the proposal.
+
+Week 3
+We have identified the infrastructure and epics for our topic. And the proposal of our project is submitted.
+
+Week 4
+Create a Webhook, establish the relationship between Face Messenger and the backend, and realize the interaction of information--get and post functions.
+
+week 5
+Complete natural language processing on dialogflow, implement dialogflow api calls and return intents and entities to backend.
+
+week 6
+Complete the parsing of Json files, get more parameters from dialogflow for backend processing
+
+week 7
+In-depth study of the processing of natural language by dialogflow
+
+week 8
+Natural language processing for low confidence queries. Word tagging and extract nouns and verbs a keywords.
+
+week 9
+Identify the query in the attachment format, and remind the question should be in the text format, and provide a method to reply users by images.
+
+week 10
+Information retrieval for low confidence questions and fallback questions, if a query is identified in a particular domain, a corresponding web link should be provided.
+
+week 11
+Design demo styles and procedures, practice demo
